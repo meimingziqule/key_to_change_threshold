@@ -41,3 +41,4 @@ while(True):
 #        print("x:%d,y:%d,w:%d,h:%d"%(blob.cx(),blob.cy(),blob.w(),blob.h()))
  #       img.draw_rectangle(blob.rect())
   #      print("绿色像素数量：%d"%blob.pixels())  
+  #1111
